@@ -1,0 +1,22 @@
+{
+  "name": "hhft-tracker",
+  "version": "1.0.0",
+  "description": "hhft-tracker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/hhfh/tracker.git"
+  },
+  "author": "me@kinshuk.in",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/hhfh/tracker/issues"
+  },
+  "homepage": "https://gitlab.com/hhfh/tracker#README",
+  "dependencies": {
+    "bittorrent-tracker": "^8.0.7"
+  }
+}
