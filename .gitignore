@@ -1,7 +1,6 @@
 # Logs
 logs
 *.log
-npm-debug.log*
 
 # Runtime data
 pids
@@ -35,3 +34,9 @@ jspm_packages
 
 # Optional REPL history
 .node_repl_history
+
+# Temporary and backup files
+*~
+*.bak
+.*
+\#*
